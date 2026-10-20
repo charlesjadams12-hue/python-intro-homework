@@ -10,7 +10,7 @@ elif score >= 70:
     print(f"Grade: C")
 elif score >= 60:
     print(f"Score: {score}")
-    print(f"Grade: C")
+    print(f"Grade: D")
 else: 
     print(f"Score: {score}")
     print(f"Grade: F")
