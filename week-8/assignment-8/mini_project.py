@@ -46,5 +46,5 @@ else:
 
     print("\nClean data:")
     for row in clean_data:
-        print(f"{row["name"]} | {row["category"]} | ${row["amount"]:.2f}")
+        print(f"{row['name']} | {row['category']} | ${row['amount']:.2f}")
 
